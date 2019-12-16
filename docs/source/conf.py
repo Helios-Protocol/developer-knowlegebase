@@ -113,7 +113,7 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['nstatic']
 
-html_logo = "logo_large_transparent_5by2.png"
+html_logo = "helios_developer_white_transparent_small.png"
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
