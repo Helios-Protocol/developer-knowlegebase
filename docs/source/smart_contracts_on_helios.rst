@@ -1,4 +1,4 @@
-Smart contracts on Helios Protocol
+Solidity on Helios Protocol
 ==================================
 
 Helios Protocol supports Solidity smart contracts. If you have programmed your smart contract for Ethereum, and would like to use a platform that can support the growth of your dapp, then deploy it on Helios Protocol today!

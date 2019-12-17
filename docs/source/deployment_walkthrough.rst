@@ -1,7 +1,7 @@
 .. _deployment_walkthrough:
 
 
-Smart contract deployment walkthrough - Deploy your own token on Helios Protocol!
+Token deployment walkthrough
 ===============================================================================================
 
 This walkthrough will guide you through the process of deploying a smart contract on the Helios Protocol testnet, known as Hypothesis Testnet. The particular smart contract the we will deploy in this walkthrough is a token smart contract. This walkthrough is designed for linux, but should be fairly easy to follow along using other operating systems.
@@ -66,7 +66,7 @@ To begin, we need to make sure we have all of the dependencies installed. Instal
 Python code walkthrough
 -----------------------
 
-Open your newly created python file and add this code. The first thing we will do is import the packages we need and define some constants:
+The first thing we will do is import the packages we need and define some constants:
 
 .. code-block:: Python
 

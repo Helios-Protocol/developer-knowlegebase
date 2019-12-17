@@ -1,4 +1,4 @@
-Smart Contract interaction walkthrough - Send tokens, check balance
+Token smart contract interaction walkthrough
 ===============================================================================================
 
 This walkthrough will guide you through the process of interacting with a smart contract on the Helios Protocol testnet, known as Hypothesis Testnet. The particular smart contract the we will be interacting with in this walkthrough is a token smart contract located here: https://github.com/Helios-Protocol/helios-code-examples/blob/master/smart_contracts/solidity/delegated_token.sol. This walkthrough is designed for linux, but should be fairly easy to follow along using other operating systems.
